@@ -2,6 +2,7 @@
 Material Design Reveal Effect形式的Toolbar搜索控件
 
 效果如下：
+
 ![](https://github.com/changliugang/RevealSearchView/raw/master/art/search.gif)  
 
 ## 注意：
